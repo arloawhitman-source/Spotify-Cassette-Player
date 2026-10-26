@@ -17,4 +17,4 @@ I used Kicad to create a schematic for the pcb that will hold four angled button
 <img width="1078" height="699" alt="Screenshot 2026-10-26 163017" src="https://github.com/user-attachments/assets/cee466b2-3442-43d0-a26b-abc828308a11" />
 
 
-**Total time spent: 1.5h**
+**Total time spent: 2h**
