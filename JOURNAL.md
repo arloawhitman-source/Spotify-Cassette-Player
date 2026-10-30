@@ -6,7 +6,7 @@ Description: A small display to show current song on spotify as well as control 
 
 Created_at: 2026-10-26
 
-total_time: 1.5h
+total_time: 8h
 
 
 ## October 26, 2026: Creating A PCB And Model For The Board
@@ -40,3 +40,13 @@ I used fusion to finish the bottom half of the case as well as create the top ha
 
 
 **Total time spent: 3h**
+
+
+## October 30, 2026: Finishing The Case And Ensuring Fit
+
+I finished the case and designed the buttons, I modified the case slightly to allow the buttons to fit, I then put all of the parts in one model to ensure they would fit and check tolerances in my design. I then fixed small issues with the buttons sizing as well as the sizing around the screen. I can now move on to coding for my project
+
+<img width="979" height="538" alt="Screenshot 2026-10-30 165323" src="https://github.com/user-attachments/assets/02a84b89-2beb-47a3-9412-053d913b13e5" />
+
+
+**Total time spent: 1h**
