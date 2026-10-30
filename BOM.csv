@@ -1,0 +1,7 @@
+Spotify Cassette Player - Bill of Materials,,,,,
+Item,Part,Description,Qty,Link / Source,Notes
+1,"Adafruit 3.52"" 384x180 Quad-Color eInk / ePaper Bare Display","Red/black/yellow/white e-paper, JD79667 chipset",1,https://www.adafruit.com/product/6414,Includes 24-pin FPC Flex A-B cable (50mm) and 24-pin FFC/FPC extender; flipped-contact connector needs both
+2,Adafruit RP2040 Feather ThinkInk for 24-pin E-Paper Displays - STEMMA QT,"Driver/MCU board for the display, Arduino or CircuitPython",1,https://www.adafruit.com/product/5727,Solderless plug-and-play with the display above
+3,Right Angle Momentary Tact Tactile Push Button Switch Non Lock 6x6x5.5mm,"Control buttons (play/pause, skip, etc.)",20,https://www.walmart.com/ip/20xRight-Angle-Momentary-Tact-Tactile-Push-Button-Switch-Non-Lock-6x6x5-5mm/113681747,Pack of 20
+4,3D-printed cassette enclosure,Custom designed 3D model of the cassette shell,1,models/spotify_cassette_player_case.stl,Model file lives in the repo; replace the path if your repo layout differs
+5,Glue,Adhesive for assembling the printed enclosure,1,,e.g. cyanoacrylate or plastic-safe epoxy
