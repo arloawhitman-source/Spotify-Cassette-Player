@@ -50,3 +50,15 @@ I finished the case and designed the buttons, I modified the case slightly to al
 
 
 **Total time spent: 1h**
+
+
+## October 31, 2026: Programming with the spotify API
+
+Happy Halloween ;)
+I started programming the features needed to get the data from spotify, this was going well and was fairly simple, I watched a few tutorials before programming only the spotify features, my original plan was to have this plugged into my pc and transfer the data from it, however around two hours into coding this I realized that i would have to download every album cover on my pc and then send it over to the microcontroller, I didn't want to do this so I decided that I would add a wifi chip to my pcb design so it can all run from the board its self. I still attatched the inprogress files before using on board wifi.
+
+
+<img width="1838" height="922" alt="coding" src="https://github.com/user-attachments/assets/f85e18e3-01de-44cf-a71d-040f4a20ac70" />
+
+
+**Total time spent: 2h**
