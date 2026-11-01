@@ -6,7 +6,7 @@ Description: A small display to show current song on spotify as well as control 
 
 Created_at: 2026-10-26
 
-total_time: 8h
+total_time: 10.5h
 
 
 ## October 26, 2026: Creating A PCB And Model For The Board
@@ -62,3 +62,14 @@ I started programming the features needed to get the data from spotify, this was
 
 
 **Total time spent: 2h**
+
+
+
+## November 1, 2026: Programming for the Airlift wifi card
+
+As mentioned yesterday i've decided to add an arduino airlift to my design so it can access wifi to directly get data from spotify. I firsted programmed a simple program taking parts of yesterdays to display data from spotify such as artist, song and album, and this will be attatched once i'm able to get back to my normal pc. Ive also added a program thats hosted on pythonanywhere to get and compress the album cover art, this is slightly more complicated and required a different display script to be able to run. I did alot of debugging on the host site to get it to work but in a quick test the site is downloading a low res image of the album cover.
+
+<img width="1245" height="495" alt="Screenshot_2026-11-01_15-14-58" src="https://github.com/user-attachments/assets/97307913-d40c-404a-96d8-072cb6bf5e79" />
+<img width="1737" height="917" alt="Screenshot_2026-11-01_15-14-20" src="https://github.com/user-attachments/assets/78624c23-42dd-4b4e-a603-b4b6bc73c4f7" />
+
+**Total time spent: 2.5h**
