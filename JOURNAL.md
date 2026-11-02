@@ -73,3 +73,12 @@ As mentioned yesterday i've decided to add an arduino airlift to my design so it
 <img width="1737" height="917" alt="Screenshot_2026-11-01_15-14-20" src="https://github.com/user-attachments/assets/78624c23-42dd-4b4e-a603-b4b6bc73c4f7" />
 
 **Total time spent: 2.5h**
+
+
+## November 2, 2026: Update CAD PCB and ReadMe
+
+I updated the cad to include the new AirLift to support wifi, to do this I added onto the pcb with simple 1x12 pins. This didn't effect the CAD much as it still fit inside my case, however I did update the model a little bit to ensure it would fit snug and the buttons would actually work. Finally I updated the ReadMe to fit the requirements as well as the BOM to include the AirLift.
+
+<img width="767" height="450" alt="Screenshot 2026-11-02 154055" src="https://github.com/user-attachments/assets/0dba12a4-84f1-4d93-8446-a7171dfccffe" />
+
+**Total time spent: 1.8h**
