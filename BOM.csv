@@ -2,7 +2,7 @@ Spotify Cassette Player - Bill of Materials,,,,,
 Item,Part,Description,Qty,Link / Source,Total Price = $48.8 + Shipping
 1,"Adafruit 3.52"" 384x180 Quad-Color eInk / ePaper Bare Display","Red/black/yellow/white e-paper, JD79667 chipset",1,https://www.adafruit.com/product/6414, $19.95
 2,Adafruit RP2040 Feather ThinkInk for 24-pin E-Paper Displays - STEMMA QT,"Driver/MCU board for the display, Arduino or CircuitPython",1,https://www.adafruit.com/product/5727,$17.5
-3,Right Angle Momentary Tact Tactile Push Button Switch Non Lock 6x6x5.5mm,"Control buttons (play/pause, skip, etc.)",20,https://www.mouser.com/en/ProductDetail/Alps-Alpine/SKHHLVA010?qs=fMKjfF2mFoiJRRWHWDDtqQ%3D%3D, $1.4
+3,Right Angle Momentary Tact Tactile Push Button Switch Non Lock 6x6x5.5mm,"Control buttons (play/pause, skip, etc.)",4,https://www.mouser.com/en/ProductDetail/Alps-Alpine/SKHHLVA010?qs=fMKjfF2mFoiJRRWHWDDtqQ%3D%3D, $1.4
 4,3D-printed cassette enclosure,Custom designed 3D model of the cassette shell,1,,
 5,Glue,Adhesive for assembling the printed enclosure,1,,
 6,Adafruit AirLift, "Wifi expansion for the ThinkInk", 1, https://www.adafruit.com/product/4201?srsltid=AYCX9vLzLCX_73cf2lUWii9erpdkK9syhx2aU9wF-yFn_-AD0FK2NfnT, $9.95
