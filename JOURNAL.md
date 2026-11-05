@@ -82,3 +82,12 @@ I updated the cad to include the new AirLift to support wifi, to do this I added
 <img width="767" height="450" alt="Screenshot 2026-11-02 154055" src="https://github.com/user-attachments/assets/0dba12a4-84f1-4d93-8446-a7171dfccffe" />
 
 **Total time spent: 1.8h**
+
+
+## November 4, 2026: Update CAD and BOM
+
+I  updated the cad to include pins for both attaching the top and bottom as well as i spent some time trying to find cheaper prices online for the components I need.
+
+<img width="742" height="389" alt="Screenshot 2026-11-04 170517" src="https://github.com/user-attachments/assets/78248577-f6e5-4637-9504-bc42c8e3e83d" />
+
+**Total time spent: 0.7h**
